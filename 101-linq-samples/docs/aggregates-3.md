@@ -2,7 +2,7 @@
 
 *Aggregator* methods return a single value calculated from all the elements in a sequence. the aggregator methods include `Count`, `Sum`, `Min`, `Max`, `Average`, and `Aggregate`.
 
-## Find the maximun of a sequence of elements
+## Find the maximum of a sequence of elements
 
 This sample uses `Max` to get the highest number in an array.
 
